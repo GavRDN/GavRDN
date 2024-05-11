@@ -2,7 +2,7 @@
 
 ## Я Гаврик Дмитрий. Ищу работу по вакансии "Тестировщик ПО".
 
-## Языки и инструменты
+# Языки и инструменты
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#1C5BA3)
 ![Selenium_IDE](https://img.shields.io/badge/-Selenium_IDE-090909?style=for-the-badge&logo=Selenium&logoColor=#1C5BA3)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
