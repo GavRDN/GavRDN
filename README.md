@@ -1,4 +1,4 @@
-![Header](https://github.com/GavRDN/GavRDN/blob/main/assets/header.jpg)
+![Header](https://github.com/GavRDN/GavRDN/blob/main/assets/header.png)
 
 ## Я Гаврик Дмитрий. Ищу работу по вакансии "Тестировщик ПО".
 
