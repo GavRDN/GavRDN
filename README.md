@@ -1,8 +1,8 @@
 ![Header](https://github.com/GavRDN/GavRDN/blob/main/assets/header_1.png)
 
-## Я Гаврик Дмитрий. Ищу работу по вакансии "Тестировщик ПО".
+### Я Гаврик Дмитрий. Ищу работу по вакансии "Тестировщик ПО".
 
-# Языки и инструменты
+### Языки и инструменты
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#1C5BA3)
 ![Selenium_IDE](https://img.shields.io/badge/-Selenium_IDE-090909?style=for-the-badge&logo=Selenium&logoColor=#1C5BA3)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
@@ -12,7 +12,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=CB2027)
 ![Test_Rail](https://img.shields.io/badge/-Test_Rail-090909?style=for-the-badge&logo=TestRail&logoColor=CB2027)
 
-## Мои сертификаты
+### Мои сертификаты
 
 - [Сертификат: Тестирование ПО с нуля. Теория + Практика](
 https://stepik.org/cert/2453987)
