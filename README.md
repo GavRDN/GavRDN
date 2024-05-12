@@ -8,9 +8,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=#1C5BA3)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#1C5BA3)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=#1C5BA3)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=for-the-badge&logo=Apache&logoColor=CB2027)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=CB2027)
 ![Test_Rail](https://img.shields.io/badge/-Test_Rail-090909?style=for-the-badge&logo=TestRail&logoColor=CB2027)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googleChrome&logoColor=#1C5BA3)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=#1C5BA3)
 
 ## Мои сертификаты
 
@@ -26,29 +29,6 @@ https://stepik.org/cert/2354310)
 
 ## Проект: Автоматизация тестирования интернет-магазина "ЭЛМАРТ"
 
-**Описание проекта:**  
-Этот проект представляет собой автоматизацию тестирования основных функциональностей интернет-магазина "ЭЛМАРТ". Цель проекта - обеспечить качество и надежность работы магазина путем автоматизации ключевых сценариев использования.
-
-**Цели тестирования:**  
-- Добавление и удаление товара из списка желаемых товаров.
-- Покупка рандомного товара.
-- Покупка нескольких товаров.
-- Удаление товара из корзины.
-
-**Сопутствующие проверки:**  
-Для каждой цели тестирования также предусмотрены сопутствующие проверки, которые включают в себя проверку корректности отображения информации о товарах, работу системы фильтрации и сортировки, а также проверку процесса оформления заказа.
-
-**Технологии и инструменты:**  
-- Python для написания автоматизированных тестов.
-- Selenium WebDriver для взаимодействия с элементами веб-страниц.
-- Pytest для организации и запуска тестов.
-- Allure для отчетности и анализа.
-- Git для управления версиями кода.
-
 **Ссылка на репозиторий:**  
 [Ссылка на GitHub репозиторий](https://github.com/GavRDN/project_auto_testing.git)
 
-**Результаты:**  
-- Увеличение эффективности тестирования за счет автоматизации основных сценариев использования магазина "ЭЛМАРТ".
-- Обнаружение и исправление дефектов на ранних этапах разработки благодаря регулярному запуску автотестов.
-- Повышение качества и надежности интернет-магазина "ЭЛМАРТ".
