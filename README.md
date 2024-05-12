@@ -41,7 +41,7 @@ https://stepik.org/cert/2354310)
 ### Решение тестового задания:
 [Ссылка на решение тестового задания в Google Диске](https://drive.google.com/drive/folders/1NHDqd8bqoQlSEZv6w8Pyula1Ulxl9WQr?usp=drive_link)
 
-## Еще пример тестовой документации (не отностится к тестовому заданию)
+### Еще пример тестовой документации (не отностится к тестовому заданию)
 
 [Ссылка на тестовую документацию в Google Диске](https://docs.google.com/spreadsheets/d/1NRfc6GZjYdiVpFhjAECMwnIbjqCUhZusBUYxSPsVNQA/edit?usp=drive_link)
 
