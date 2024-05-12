@@ -33,6 +33,15 @@ https://stepik.org/cert/2354310)
 **Ссылка на репозиторий:**  
 [Ссылка на GitHub репозиторий](https://github.com/GavRDN/project_auto_testing.git)
 
+## Пример выполнения тестового задания
+
+### Тестовое задание:
+[Ссылка на тестовое задание в Google Диске](https://drive.google.com/drive/folders/1AeY8jJMwOM9_9gEjiEQ3cM2GabetrSTB?usp=sharing)
+
+### Решение тестового задания:
+[Ссылка на решение тестового задания в Google Диске](https://drive.google.com/drive/folders/1NHDqd8bqoQlSEZv6w8Pyula1Ulxl9WQr?usp=drive_link)
+
+
 ## Навыки
 - Отличное понимание теории и практики тестирования ПО
 - Уверенное владение методами тест-дизайна и написание тест-кейсов
