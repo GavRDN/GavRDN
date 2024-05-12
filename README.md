@@ -35,7 +35,7 @@ https://stepik.org/cert/2354310)
 Я всегда открыт к новым проектам и возможностям сотрудничества. Не стесняйтесь связаться со мной через:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1C5BA3)](https://t.me/GavrikDN)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=#1C5BA3)](mailto:gavrikdnwork@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=#1C5BA3)](https://gavrikdnwork@gmail.com)
 
 Давайте сделаем мир программного обеспечения лучше вместе! 💻🚀
 
